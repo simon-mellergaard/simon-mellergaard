@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @simon-mellergaard
-- 👀 I’m interested in: I have no interests
-- 🌱 I’m currently learning: data i guess
-- 💞️ I’m looking to collaborate on: i work alone
-- 📫 How to reach me: just text me lmao
-- 😄 Pronouns: wtf are pronouns
-- ⚡ Fun fact: the moon is made of cheese
+# WELCOME
+
+to my github page. I'm Simon, and I do not like data, as it is often messy and ugly, so I try my best to fix it.
+
+Check out some of my projects below.
 
 <!---
 simon-mellergaard/simon-mellergaard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
