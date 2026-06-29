@@ -1,4 +1,4 @@
-# WELCOME
+# WELCOME 🌍
 
 to my github page. I'm Simon, and I work with data sometimes.
 
